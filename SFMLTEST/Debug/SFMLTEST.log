@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\tiernan\source\repos\sfmltest\sfmltest\source.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFMLTEST.vcxproj -> C:\Users\Tiernan\source\repos\SFMLTEST\Debug\SFMLTEST.exe
